@@ -28,6 +28,5 @@
   <a href="https://instagram.com/eduardo_langner" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:eduardodossantos752@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-  
+![Snake animation](https://github.com/EduardoLangner/EduardoLangner/blob/output/github-contribution-grid-snake.svg)  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
